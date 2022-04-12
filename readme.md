@@ -6,7 +6,7 @@ This mod currently only works for American 1.1 versions of the game.
 
 ### How to use
 
-For dolphin users: Right click on your game -> Start with Riivolution Patches... then go to Riivolution scripts and choose wiisportsresortapocalypse.xml. Make sure that you have the WiiSportsResortApocalypse as the sd root.
+For dolphin users: Right click on your game -> Start with Riivolution Patches... then go to Riivolution scripts and choose wiisportsresortapocalypse.xml. Make sure that you have the WiiSportsResortApocalypse folder as the sd root.
 
 For Wii users: You need to have riivolution installed for this to work. See https://wiibrew.org/wiki/Riivolution. Extract WSRAv1.7z to the root of your sd card and stick it in your Wii. Open up riivolution (with your American v1.1 copy of wsr in) and make sure it is enabled.
 
