@@ -15,3 +15,9 @@ For Wii users: You need to have riivolution installed for this to work. See http
 Please keep in mind I have done minimal testing, and as such there may be bugs. Feel free to report anything you find to me!
 All I have dones so far is replace the swords in swordplay duel with katanas, and replaced the airship with a boeing 787.
 Feel free to suggest anything! If you would like to contact me, my discord is Dylan!#1185.
+
+### Model links
+
+Katana: https://skfb.ly/o8ZXr
+
+Boeing 787: https://www.turbosquid.com/3d-models/free-boeing-787-8-1-3d-model/858876
